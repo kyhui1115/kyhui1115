@@ -1,1 +1,1 @@
-<a href="" target="_blank"><img src="https://img.shields.io/badge/kyhui1115@gmail.com-59CD8F?style=flat-square&logo=Gmail&logoColor=CFD2CF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/kyhui1115@gmail.com-2B3467?style=flat-square&logo=Gmail&logoColor=CFD2CF"/></a>
