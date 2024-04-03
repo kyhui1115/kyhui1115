@@ -8,7 +8,3 @@ I'm Front-End Developer
 </br>
 </br>
 <a href="mailto:kyhui1115@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kyhui1115@gmail.com-2B3467?style=flat-square&logo=Gmail&logoColor=CFD2CF"/></a>
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyhui1115&show_icons=true&theme=ocean_dark)
